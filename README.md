@@ -149,4 +149,3 @@ Supply-Chain-Analysis/
 
 Rupjit Das
 
-Aspiring Data Analyst | Business Analyst | Data Scientist
